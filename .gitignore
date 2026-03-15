@@ -1,0 +1,46 @@
+# Python
+__pycache__/
+*.py[cod]
+*.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# AI/ML
+*.pkl
+*.index
+faiss.index
+meta.pkl
+*.pth
+*.bin
+models/
+
+# Data
+data/
+*.pdf
+*.docx
+
+# Logs
+*.log
+
+# Node
+node_modules/
+npm-debug.log*
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment
+.env
+.env.local
